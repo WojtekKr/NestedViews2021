@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<StackLayout xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NestedViews2021.Views.PlaceView" Orientation="Horizontal" BackgroundColor="LightGray">
+
+    <Label Text="Airport Code" VerticalOptions="Center"/>
+    <Entry Text="{Binding Street}" BackgroundColor="LightGreen" VerticalOptions="Center" WidthRequest="100" HorizontalOptions="Start"/>
+
+    <Label Text="Country Code" VerticalOptions="Center" />
+    <Entry Text="{Binding City}" BackgroundColor="LightGreen" VerticalOptions="Center" WidthRequest="50" HorizontalOptions="Start"/>
+
+</StackLayout>

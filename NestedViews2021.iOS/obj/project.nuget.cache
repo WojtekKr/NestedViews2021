@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zvf/+o9t7sF7uPPCIPz76r8p0wdx7Tzo7zFQ3VSfmxrgjD434EiNc4FJNmVaDWm5w0zYsVIeX0c3D8glR/sAwQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Wojtek\\Documents\\GitHub\\NestedViews2021\\NestedViews2021.iOS\\NestedViews2021.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wojtek\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\Wojtek\\.nuget\\packages\\prism.forms\\8.0.0.1909\\prism.forms.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\Wojtek\\.nuget\\packages\\prism.unity.forms\\8.0.0.1909\\prism.unity.forms.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\Wojtek\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Wojtek\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\Wojtek\\.nuget\\packages\\unity.abstractions\\5.11.6\\unity.abstractions.5.11.6.nupkg.sha512",
+    "C:\\Users\\Wojtek\\.nuget\\packages\\unity.container\\5.11.8\\unity.container.5.11.8.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

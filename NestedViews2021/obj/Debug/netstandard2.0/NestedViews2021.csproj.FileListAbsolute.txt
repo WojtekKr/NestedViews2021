@@ -1,0 +1,15 @@
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\bin\Debug\netstandard2.0\NestedViews2021.deps.json
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\bin\Debug\netstandard2.0\NestedViews2021.dll
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\bin\Debug\netstandard2.0\ref\NestedViews2021.dll
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\bin\Debug\netstandard2.0\NestedViews2021.pdb
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\obj\Debug\netstandard2.0\NestedViews2021.csprojAssemblyReference.cache
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\obj\Debug\netstandard2.0\NestedViews2021.AssemblyInfoInputs.cache
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\obj\Debug\netstandard2.0\NestedViews2021.AssemblyInfo.cs
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\obj\Debug\netstandard2.0\NestedViews2021.csproj.CoreCompileInputs.cache
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\obj\Debug\netstandard2.0\NestedViews2021.dll
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\obj\Debug\netstandard2.0\ref\NestedViews2021.dll
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\obj\Debug\netstandard2.0\NestedViews2021.pdb
+D:\Users\Wojtek\Documents\GitHub\NestedViews2021\NestedViews2021\obj\Debug\netstandard2.0\Views\PlaceView.xaml.g.cs

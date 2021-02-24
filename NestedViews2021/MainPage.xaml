@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:NestedViews2021.Views;assembly=NestedViews2021"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             x:Class="NestedViews2021.MainPage">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="LightSalmon">
+
+            <Label Text="Departure" />
+            <controls:PlaceView BindingContext="{Binding StartingPlace}" />
+
+            <Label Text="Arrival" />
+            <controls:PlaceView BindingContext="{Binding TargetPlace}" />
+
+             <Label Text="{Binding Message}" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
